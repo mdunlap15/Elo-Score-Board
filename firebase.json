@@ -1,7 +1,7 @@
 {
   //firebaseApp - required - the firebase app name where your data is stored
-  "firebaseApp": "[YOUR FIREBASE APP NAME]",
-  "apiKey" : "[YOUR API KEY]",
+  "firebaseApp": "shuffleboard_rankings",
+  "apiKey" : "AIzaSyC_0MnOSr7uMaga6_44Kk6PpOD8zIr9Pqs",
   "public": "dist",
   "ignore": [
     "firebase.json",
